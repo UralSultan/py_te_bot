@@ -24,7 +24,7 @@ def getwiki(s):
         return wikitext2
 
     except Exception as e:
-        return 'В Wiki нет инфы по данносу слову'
+        return 'В Wiki нет инфы по данному слов'
 
 
 # Функция, обрабатывающая команду /start
